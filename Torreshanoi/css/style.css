@@ -1,0 +1,61 @@
+body{
+    background-image: linear-gradient(45deg, blue, red);
+}
+
+.wrapper{
+    margin-left: 40px;
+    padding:100px;
+    float: left;
+    width: 100%;
+}
+
+h2 {
+    font-weight: 100;
+    font-style: italic;
+    color: white;
+}
+.droppable
+{
+    height: 200px;
+    width: 210px;
+    float: left;
+    position: relative;
+    margin-right:40px;
+    border: 1px solid blueviolet;
+}
+.draggable{
+    height: 25px;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.pilar
+{
+    width: 20px;
+    height: 150px;
+    background-color: darkgray;
+    position: absolute;
+    bottom: 0px;
+    margin: 0 94px;
+}
+.contentor
+{
+    width: 210px;
+    bottom:0px;
+    position: absolute;
+}
+.disco3
+{
+    background-color: green;
+    width: 120px;
+}
+.disco2
+{
+    background-color: blue;
+    width: 160px;
+}
+.disco1
+{
+    background-color: red;
+    width: 210px;
+}

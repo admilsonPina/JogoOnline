@@ -1,0 +1,36 @@
+
+body{
+    background-image: linear-gradient(45deg, green, red);
+}
+
+/* Jogo da velha*/
+#jg p{
+    
+    margin: 0px 0px 40px 90px;
+  }
+/* Jogo da velha*/
+#jg{
+
+    width: 300px;
+    height: 300px;
+    margin: 150px 400px 100px 50px;
+}
+
+/*Jogo da forca*/
+#jg1{
+
+    width: 270px;
+    height: 270px;
+    margin: -380px 400px 200px 450px;
+}
+
+/*Jogo de torre */
+
+#jg2{
+    width: 200px;
+    height: 200px;
+    margin: -400px 400px 300px 750px;
+}
+
+
+
